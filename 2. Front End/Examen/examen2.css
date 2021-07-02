@@ -1,0 +1,15 @@
+body{
+    background-color:lightcoral;
+}
+#Input{
+    width: 30%;
+    height: 30px;
+    font-size: large;
+    font-weight: bolder;
+}
+#guardar{
+    background-color: greenyellow;
+}
+#limpiar{
+    background-color: rgb(248, 96, 96);
+}

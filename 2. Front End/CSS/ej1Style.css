@@ -1,0 +1,139 @@
+.conteiner1{
+    display: flex;
+    flex-direction: row;
+    background-color: silver;
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+.conteiner1 div{
+    display: flex;
+    border: 1px solid black;
+}
+
+.parrafo{
+    color: white;
+    font-family: sans-serif;
+}
+
+.encabezado{
+    width: 40%;
+    height: 40%;
+    margin: 10px;
+    border: 0px !important;
+    color: black !important;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.menu1{
+    width: 40%;
+    background-color: green;
+    padding-left: 2%; 
+    height: 40%;
+    margin-top: 4px;
+    position: relative;
+    left: 50%;  
+}
+
+.logo{
+    width: 14%;
+    background-color: darkblue;
+    height: 40%;
+    margin-top: 50px;
+    margin-left: -35%;
+}
+
+.menu2{
+    width: 60%;
+    height: 40%;
+    background-color: darkred;
+    margin-top: 50px;
+    margin-right: 5px;
+}
+
+.conteiner2{
+    display: flex;
+    width: 100%;
+}
+
+.conteiner2 div{
+    display: flex;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 15px;
+    height: 300px;
+    color: white;
+    padding-left: 20px;
+}
+
+.izquierda{
+    background-color: dimgray;
+    width: 33%;
+}
+
+.centro{
+    background-color: teal;
+    width: 33%;
+}
+
+.derecha{
+    background-color: darkorange;
+    width: 33%;
+}
+
+.conteiner3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.conteiner3 div{
+    display: flex;
+    border: 1px solid black;
+    margin: 0.5%;
+    border-radius: 15px;
+    border: 1px solid black;
+    color: white;
+    height: 300px;
+    padding-left: 20px;
+}
+
+.izquierda2{
+    background-color: darkgreen;
+    width: 66%;
+}
+
+.derecha2{
+    background-color: chocolate;
+    width: 33%;
+}
+
+.conteiner4{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+.conteiner4 div{
+    display: flex;
+}
+
+.pie{
+    margin-left: 2%;
+}
+
+.elemento{
+    background-color: darkblue;
+    border: 1px solid black;
+    width: 10%;
+    margin-left: 88%;
+    color: white;
+    height: 33%;
+}

@@ -1,0 +1,14 @@
+.btn-secondary {
+    color: #fff;
+    background-color: silver;
+    border-color: #212529 !important;
+}
+a.button {
+    background-color: silver;
+    transition: background-color .5s;
+  }
+  
+a:hover {
+    background-color: silver;
+  }
+
