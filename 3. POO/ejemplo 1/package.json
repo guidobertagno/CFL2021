@@ -1,0 +1,24 @@
+{
+  "name": "ejemplo-1",
+  "version": "1.0.0",
+  "description": "primer proyecto 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "grafico": "cls && node usoPKGAsciiChart"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidobertagno/CFL2021.git"
+  },
+  "author": "GB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidobertagno/CFL2021/issues"
+  },
+  "homepage": "https://github.com/guidobertagno/CFL2021#readme",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "readline-sync": "^1.4.10"
+  }
+}
