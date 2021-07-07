@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "proyecto npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "font": "cls && node consoleFonts",
+    "color": "cls && node cliClor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidobertagno/CFL2021.git"
+  },
+  "author": "Guido Bertagno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidobertagno/CFL2021/issues"
+  },
+  "homepage": "https://github.com/guidobertagno/CFL2021#readme",
+  "dependencies": {
+    "cfonts": "^2.9.3",
+    "cli-color": "^2.0.0",
+    "log-symbols": "^5.0.0"
+  }
+}
